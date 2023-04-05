@@ -1,14 +1,229 @@
 {
-    "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 },
-        { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-        "name": "typicode"
+    "AB":{
+        "A":{
+            "U":"https://www.minibet88.com/?pid=wjvip19",
+            "isT":true,
+            "isJ":false,
+            "Area":[
+                "PH",
+                "IN",
+                "BR"
+            ],
+            "Event":[
+                "deposit",
+                "depositSubmit",
+                "deposit-success",
+                "firstDeposit",
+                "firstDepositArrival",
+                "first-deposit-success",
+                "firstOpen",
+                "first-recharge-success",
+                "register",
+                "registerSubmit",
+                "register-success",
+                "signup-success",
+                "withdraw"
+            ],
+            "ID":[
+                "ohoogc",
+                "2afi5o",
+                "8jxdpe",
+                "i5l23m",
+                "axtgrt",
+                "3i0cpl",
+                "45o5bs",
+                "qvezg7",
+                "wzk7g1",
+                "c1kolv",
+                "qhfi0a",
+                "mjdpjv",
+                "u42v7s"
+            ]
+        },
+        "B":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+                "PHL",
+                "IND",
+                "BRA"
+            ],
+            "Event":[
+                "deposit",
+                "depositSubmit",
+                "deposit-success",
+                "firstDeposit",
+                "firstDepositArrival",
+                "first-deposit-success",
+                "firstOpen",
+                "first-recharge-success",
+                "register",
+                "registerSubmit",
+                "register-success",
+                "signup-success",
+                "withdraw"
+            ],
+            "ID":[
+                "jyney4",
+                "t77o0c",
+                "wg2bp4",
+                "wq5gh5",
+                "7hs8c0",
+                "pkrnfy",
+                "uxz8au",
+                "n883ln",
+                "30ap65",
+                "g37tjq",
+                "nrfea3",
+                "dviplg",
+                "su4ebd"
+            ]
+        },
+        "C":{
+            "U":"https://www.90jili.com/index?affiliateCode=haha11",
+            "isT":true,
+            "isJ":false,
+            "Area":[
+                "PH",
+                "IN",
+                "BR",
+                "HK"
+            ],
+            "Event":[
+                "adj_complete_registration",
+                "adj_purchase1",
+                "adj_purchase1_value",
+                "deposit",
+                "depositSubmit",
+                "deposit-success",
+                "firstDeposit",
+                "firstDepositArrival",
+                "first-deposit-success",
+                "firstOpen",
+                "first-recharge-success",
+                "register",
+                "registerSubmit",
+                "register-success",
+                "signup-success",
+                "withdraw"
+            ],
+            "ID":[
+                "1qbbjp",
+                "lyqf4d",
+                "utb5fu",
+                "h0ow5n",
+                "s5evv8",
+                "22fmln",
+                "ymuojo",
+                "csam8q",
+                "kprk3o",
+                "vu4rle",
+                "ixvs2n",
+                "ixvs2n",
+                "3ml8kr",
+                "1lyx91",
+                "r1zju9",
+                "ooch9t"
+            ]
+        },
+        "D":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+                "HK"
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "E":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "F":{
+            "U":"",
+            "isT":true,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "G":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "H":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "I":{
+            "U":"",
+            "isT":false,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        },
+        "J":{
+            "U":"",
+            "isT":true,
+            "isJ":false,
+            "Area":[
+
+            ],
+            "Event":[
+
+            ],
+            "ID":[
+
+            ]
+        }
     }
 }
