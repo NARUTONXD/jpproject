@@ -2,12 +2,13 @@
     "AB":{
         "A":{
             "U":"https://www.wjbet.club/index?affiliateCode=bxs014",
-            "onoff":0,
+            "onoff":1,
             "isJ":false,
             "Area":[
+                "TR",
+                "BR",
                 "PH",
-                "IN",
-                "BR"
+                "HK"
             ],
             "Event":[
                 "deposit",
